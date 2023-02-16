@@ -1,0 +1,70 @@
+Name,Age,M/F,City,State,Country,Official Time,Overall,Gender,Years Ran
+" Kirui, Geoffrey ",24,M,Keringet,,KEN,2:09:37,1,1,
+"Rupp, Galen   ",30,M,Portland,OR,USA,2:09:58,2,2,
+"Osako, Suguru  ",25,M,Machida-City,,JPN,2:10:28,3,3,
+"Biwott, Shadrack",32,M,Mammoth Lakes,CA,USA,2:12:08,4,4,
+"Chebet, Wilson",31,M,Marakwet,,KEN,2:12:35,5,5,2015
+"Abdirahman, Abdi",40,M,Phoenix,AZ,USA,2:12:45,6,6,
+"Maiyo, Augustus K.",33,M,Colorado Springs,CO,USA,2:13:16,7,7,
+"Sefir, Dino",28,M,Addis Ababa,,ETH,2:14:26,8,8,
+"Puskedra, Luke",27,M,Eugene,OR,USA,2:14:45,9,9,
+"Ward, Jared",28,M,Kaysville,UT,USA,2:15:28,10,10,
+"Quigley, Sean",32,M,Braintree,MA,USA,2:15:34,11,11,
+"Tsegay, Yemane",32,M,Addis Ababa,,ETH,2:16:47,12,12,
+"Keflezighi, Meb",41,M,San Diego,CA,USA,2:17:00,13,13,2015
+"Nyasango, Cutbert",34,M,Harara,,ZIM,2:17:40,14,14,2016
+"Korir, Wesley",34,M,Kitale,,KEN,2:18:14,15,15,2015:2016
+"Puzey, Thomas R.",32,M,Flagstaff,AZ,USA,2:18:20,16,16,
+"Kisri, Rachid",41,M,Briarcliff Manor,NY,USA,2:18:32,17,17,
+"Mutai, Emmanuel",32,M,Lessos,,KEN,2:19:33,18,18,
+"Ndhlovu, Pardon",29,M,Vilas,NC,USA,2:20:12,19,19,
+"Harvey, Brian",29,M,Boston,MA,USA,2:20:18,20,20,
+"Kiplagat, Edna",37,F,Uasin Gishu,,KEN,2:21:52,21,1,
+"Chipsiya, Christopher K.",42,M,Zacatecas,,MEX,2:22:20,22,21,
+"Mindel, Scott",30,M,Arlington,MA,USA,2:22:32,23,22,
+"Chelimo, Rose",27,F,Manama,,BRN,2:22:51,24,2,
+"Hasay, Jordan",25,F,Beaverton,OR,USA,2:23:00,25,3,
+"Place, Ryan J",31,M,Cambridge,MA,USA,2:23:05,26,23,
+"Humphrey, Luke",36,M,Beverly Hills,MI,USA,2:23:12,27,24,
+"Ashe, Eric",28,M,Boston,MA,USA,2:23:26,28,25,
+"Thompson, Christian C.",28,M,Chattanooga,TN,USA,2:23:51,29,26,
+"Maravilla, Jorge",39,M,Mill Valley,CA,USA,2:24:27,30,27,2016
+"Ornelas, Zachary",25,M,Ann Arbor,MI,USA,2:24:40,31,28,2015:2016
+"Ayr, Jason M.",29,M,Allston,MA,USA,2:24:49,32,29,2015:2016
+"Morgan, Mike",37,M,Rochester Hills,MI,USA,2:25:02,33,30,
+"Linden, Desiree",33,F,Washington,MI,USA,2:25:06,34,4,2015
+"Pierce, Keith",36,M,Lewisville,TX,USA,2:25:06,35,31,
+"Martins, Cesar A.",45,M,Sao Paulo - Sp,,BRA,2:25:15,36,32,2016
+"Vangampleare, Stephen",26,M,Colorado Springs,CO,USA,2:25:35,37,33,2015:2016
+"Loeffler, Eric",40,M,Minneapolis,MN,USA,2:26:00,38,34,
+"Carpenter, Joseph K.",27,M,Cambridge,MA,USA,2:26:40,39,35,
+"Fransen, Bret",35,M,Phoenix,AZ,USA,2:26:49,40,36,
+"Puzey, Jacob",34,M,Calgary,AB,CAN,2:26:52,41,37,
+"Kotter, Jonathan B.",32,M,Holladay,UT,USA,2:26:58,42,38,
+"Iwasa, Kaito",19,M,Tokyo,,JPN,2:27:11,43,39,
+"Cherono, Gladys",33,F,Kericho,,KEN,2:27:20,44,5,
+"Wardian, Michael R.",43,M,Arlington,VA,USA,2:27:35,45,40,
+"Flaherty, Matthew A.",31,M,Bloomington,IN,USA,2:27:40,46,41,
+"Mckay, David",30,M,Washington,DC,USA,2:27:45,47,42,
+"Fischer, Matthew",24,M,Brighton,MA,USA,2:28:18,48,43,
+"Reaves, Patrick",32,M,Portland,OR,USA,2:28:28,49,44,2016
+"Varela, Jonnathan",37,M,Spring,TX,USA,2:28:39,50,45,
+"Tropf, Jordan",25,M,Baltimore,MD,USA,2:28:43,51,46,
+"Bromka, Peter",35,M,Portland,OR,USA,2:28:44,52,47,
+"Bishop, Daniel",26,M,Salt Lake City,UT,USA,2:28:45,53,48,
+"Kipketer, Valentine",24,F,Keiyo,,KEN,2:29:35,54,6,2016
+"Aguila, Nick",27,M,Manchester,NH,USA,2:29:42,55,49,
+"Ohashi, Shinya",23,M,Miyagi,,JPN,2:29:54,56,50,
+"Boudalia, Said Sr.",48,M,Belluno,,ITA,2:30:11,57,51,2015:2016
+"Taylor, Alexander J.",37,M,Lincoln,MA,USA,2:30:19,58,52,
+"Veldhuis, Jeroen",41,M,Amsterdam,,NED,2:30:25,59,53,
+"Chichester, Tim",28,M,Hornell,NY,USA,2:30:31,60,54,
+"O'Leary, Paddy C",29,M,San Francisco,CA,USA,2:30:34,61,55,
+"Wells, Clint",41,M,Boulder,CO,USA,2:30:41,62,56,2016
+"Deba, Buzunesh",29,F,Arsi,,ETH,2:30:58,63,7,2015:2016
+"Zablocki, Christopher A.",28,M,Essex,CT,USA,2:31:04,64,57,
+"Gray, Samuel R.",21,M,Exeter,NH,USA,2:31:10,65,58,
+"Gilmore, Peter",27,M,Boston,MA,USA,2:31:13,66,59,
+"Fallas Navarro, Juan R.",31,M,Shasta Lake,CA,USA,2:31:19,67,60,
+"Thomas, Jason",22,M,Urbandale,IA,USA,2:31:37,68,61,
+"Whitty, Fergal M.",41,M,Dublin,,IRL,2:31:37,69,62,
